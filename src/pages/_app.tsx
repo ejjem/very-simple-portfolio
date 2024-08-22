@@ -18,7 +18,7 @@ const DEFAULT_SEO = {
     site_name: "이제민 | Back-End Dev",
     images: [
       {
-        url: "/share.png",
+        url: "/share.jpg",
         width: 285,
         height: 167,
         alt: "이제민 | Back-End Dev",
