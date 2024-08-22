@@ -8,7 +8,7 @@ import type { AppProps } from "next/app";
  */
 const DEFAULT_SEO = {
   title: "이제민 | Back-End Dev",
-  description: "안녕하세요, 백엔드 개발자 홍길동입니다.",
+  description: "안녕하세요, 백엔드 개발자 이제민입니다.",
   canonical: "https://www.ejjem.info/",
   openGraph: {
     type: "website",

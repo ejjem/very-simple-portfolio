@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "prettier": "prettier --write **/*.{ts,tsx}",
-    "tsc": "tsc",
-    "deploy": "npm run build && gh-pages -d out"
+    "tsc": "tsc"
   },
   "dependencies": {
     "@next/font": "13.1.5",
@@ -36,7 +35,6 @@
     "eslint-config-next": "^0.2.4",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "gh-pages": "^6.1.1",
     "postcss": "^8.4.21",
     "prettier": "^2.8.3",
     "tailwindcss": "^3.4.0"

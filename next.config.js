@@ -17,6 +17,9 @@ const nextConfig = {
     });
     return config;
   },
+  experimental: {
+    css: true,
+  }
 };
 
 module.exports = nextConfig;
