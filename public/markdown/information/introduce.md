@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 서울시립대학교 전자전기컴퓨터공학부 재학중
+- 백엔드, 클라우딩 컴퓨터 분야 진로 희망
+- 프로젝트 문의 언제나 환영입니다
